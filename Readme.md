@@ -1,4 +1,4 @@
-## Desafio de Código 01 - Criando Um Pequeno Sistema Para Validação de Processo Seletivo :bank:
+## Desafio de Código 01 - Simulando Uma Conta Bancária Através Do Terminal/Console :bank:
 - BOOTCAMP BACKEND JAVA - DIO
 
 <hr>
